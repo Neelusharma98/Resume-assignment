@@ -6,9 +6,9 @@ div
 {
     position: fixed;
     z-index: 3;
-    height:40px;
+    height:100px;
     width: 98%;
-    background-color: #11010d;
+    background-color: #e8cfe2;
     margin-bottom: 10px
     }
 
@@ -23,11 +23,11 @@ div
 
 #email{
     float:right;
-    margin-right: 20px;
+    margin-right: 200px;
 	padding-bottom: 10px;
-	font-size: 16px;
+	font-size: 20px;
 	font-family: Verdana, sans-serif;
-	color: #070404;
+	color: #ded9e8;
 }
 
 #contact
@@ -46,13 +46,13 @@ a:hover {
 .right
 {
     float: left;
-    margin-top: 50px;
-    padding-left:5px;
+    margin-top: 100px;
+    padding-left:15px;
     /*margin-right: -10px;
     margin-left: 14%;*/
     height: auto;
     width: 99%;
-    background-color: #d6b314;
+    background-color: #5db2d6;
     }
 
 /*.left
@@ -70,7 +70,7 @@ a:hover {
     height:40px;
     clear:both;
     position: relative;
-    background-color: #C1E3E1;
+    background-color: #ee0924;
     }
     
 h3
